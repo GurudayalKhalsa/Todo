@@ -1,0 +1,18 @@
+{
+  "name": "Todo",
+  "version": "0.1.0",
+  "devDependencies": {
+    "vinyl-source-stream": "~0.1.1",
+    "gulp": "~3.6.2",
+    "gulp-uglify": "~0.2.1",
+    "gulp-rename": "~1.2.0",
+    "exorcist": "~0.1.6",
+    "vinyl-transform": "0.0.1",
+    "gulp-browserify": "~0.5.0",
+    "gulp-concat": "~2.2.0",
+    "gulp-jshint": "~1.5.5",
+    "jshint-stylish": "~0.1.5",
+    "director": "~1.2.3",
+    "gulp-clean": "~0.2.4"
+  }
+}
