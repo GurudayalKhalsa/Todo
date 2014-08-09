@@ -1,5 +1,5 @@
 var React = require('react');
-var addons = require('react-addons');
+var addons = React.addons;
 var cx = addons.classSet;
 var TodoActions = require('../actions/todoActions');
 

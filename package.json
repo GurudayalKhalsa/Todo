@@ -14,5 +14,8 @@
     "jshint-stylish": "~0.1.5",
     "director": "~1.2.3",
     "gulp-clean": "~0.2.4"
+  },
+  "dependencies": {
+    "react": "~0.10.0"
   }
 }
